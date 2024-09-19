@@ -1,0 +1,11 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://ietherva.github.io/sitemap.html.gz
+Sitemap: https://ietherva.github.io/app/sitemap.html.gz
+Sitemap: https://ietherva.github.io/assets/sitemap.html.gz
+Sitemap: https://ietherva.github.io/css/sitemap.html.gz
+Sitemap: https://ietherva.github.io/data/sitemap.html.gz
+Sitemap: https://ietherva.github.io/includes/sitemap.html.gz
+Sitemap: https://ietherva.github.io/item/sitemap.html.gz
+Sitemap: https://ietherva.github.io/src/sitemap.html.gz
